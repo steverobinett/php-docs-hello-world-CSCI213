@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello this is from the web!";
+echo "Hello - this page modified from local VS Code";
