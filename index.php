@@ -13,7 +13,7 @@
     <h1 class="banner">Azure PHP</h1>
     <?php
         $currDate = date('M d Y');
-        echo "<p>Hello $currDate</p>";
+        echo "<p>More text Hello $currDate</p>";
 
     ?>
 
