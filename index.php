@@ -12,8 +12,8 @@
 
     <h1 class="banner">Azure PHP</h1>
     <?php
-    $currDate = date('M d Y');
-    echo "Hello $currDate";
+        $currDate = date('M d Y');
+        echo "<p>Hello $currDate</p>";
 
     ?>
 
