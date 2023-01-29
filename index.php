@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="syylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Document</title>
 </head>
 
