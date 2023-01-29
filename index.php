@@ -1,3 +1,22 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
 
-echo "Hello - this page modified from local VS Code";
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="syylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1 class="banner">Azure PHP</h1>
+    <?php
+    $currDate = date('M d Y');
+    echo "Hello $currDate";
+
+    ?>
+
+</body>
+
+</html>
